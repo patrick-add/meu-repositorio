@@ -1,2 +1,2 @@
-console.log("Meu primeiro repositório.");
-console.log("Meu primeiro repositório 2.");
+console.log("Meu repositório.");
+console.log("Meu repositório 2.");
